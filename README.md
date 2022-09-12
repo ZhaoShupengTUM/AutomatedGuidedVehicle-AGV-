@@ -3,7 +3,7 @@ This is a practical course from TUM.
 Main Contents:  
 -Bianry code operation  
 -GPIO driver programming, read button, contorl LED  
--Concepts of Polling and Interrupts
+-Concepts of Polling and Interrupts  
 -Servo and DC-Motor control using PMW signal  
 -Analog signal reading, Joysticks and Lightsensors  
 -I2C driver programming, communication with Port-Expansion using I2C
