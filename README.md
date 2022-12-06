@@ -1,9 +1,9 @@
-# AGV-SS22
+# Embedded System and Robotics-SS22
 This is a practical course from TUM.  
 
 **Hardware**:  
 BeagleBone Black based on the TI Sitara AM3559  
-<img src="https://user-images.githubusercontent.com/74742676/205889692-55a296db-7fd6-4802-8a95-ccb3225a5046.png"  width="30%" height="15%">
+<img src="https://user-images.githubusercontent.com/74742676/205889692-55a296db-7fd6-4802-8a95-ccb3225a5046.png"  width="20%" height="10%">
 <img src="https://user-images.githubusercontent.com/74742676/205894638-ae412dd5-e939-4110-ac8c-f3ac1e42d88d.png"  width="30%" height="15%">
 
 **Main Contents**:    
